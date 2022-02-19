@@ -4,6 +4,6 @@
 
 For more details, you can check my website: [valentin-hervieu.fr](https://valentin-hervieu.fr).
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ValentinH&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ValentinH&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valentinh)
