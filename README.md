@@ -4,6 +4,8 @@
 
 For more details, you can check my website: [valentin-hervieu.fr](https://valentin-hervieu.fr).
 
-![Github Stats](./stats.svg)
+<div style="display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: flex-start;align-items: center;align-content: stretch">
+  <img src="./stats.svg" style="width:100%;max-width:800px; margin-bottom:45px;" />
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valentinh)
