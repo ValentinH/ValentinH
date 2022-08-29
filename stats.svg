@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2231 Commits
+                            2222 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -164,7 +164,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.47k views in last two weeks
+                                    2.45k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -194,39 +194,39 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,105.2C41.154,105.2,52.308,105.2,63.462,105.2C74.615,105.2,85.769,103.978,96.923,103C108.077,102.022,119.231,100.556,130.385,98.6C141.538,96.644,152.692,89.8,163.846,89.8C175,89.8,186.154,89.8,197.308,89.8C208.462,89.8,219.615,89.8,230.769,89.8C241.923,89.8,253.077,89.8,264.231,89.8C275.385,89.8,286.538,88.883,297.692,87.6C308.846,86.317,320,76.938,331.154,72.2C342.308,67.462,353.462,62.52,364.615,59C375.769,55.48,386.923,53.459,398.077,50.2C409.231,46.941,420.385,41.295,431.538,39.2C442.692,37.105,453.846,36.267,465,34.8L465,125Z" class="ct-area"/>
-                                        <path d="M30,105.2C41.154,105.2,52.308,105.2,63.462,105.2C74.615,105.2,85.769,103.978,96.923,103C108.077,102.022,119.231,100.556,130.385,98.6C141.538,96.644,152.692,89.8,163.846,89.8C175,89.8,186.154,89.8,197.308,89.8C208.462,89.8,219.615,89.8,230.769,89.8C241.923,89.8,253.077,89.8,264.231,89.8C275.385,89.8,286.538,88.883,297.692,87.6C308.846,86.317,320,76.938,331.154,72.2C342.308,67.462,353.462,62.52,364.615,59C375.769,55.48,386.923,53.459,398.077,50.2C409.231,46.941,420.385,41.295,431.538,39.2C442.692,37.105,453.846,36.267,465,34.8" class="ct-line"/>
+                                        <path d="M30,125L30,105.2C41.154,104.467,52.308,103.978,63.462,103C74.615,102.022,85.769,100.556,96.923,98.6C108.077,96.644,119.231,89.8,130.385,89.8C141.538,89.8,152.692,89.8,163.846,89.8C175,89.8,186.154,89.8,197.308,89.8C208.462,89.8,219.615,89.8,230.769,89.8C241.923,89.8,253.077,88.883,264.231,87.6C275.385,86.317,286.538,76.938,297.692,72.2C308.846,67.462,320,62.52,331.154,59C342.308,55.48,353.462,53.459,364.615,50.2C375.769,46.941,386.923,41.295,398.077,39.2C409.231,37.105,420.385,34.8,431.538,34.8C442.692,34.8,453.846,34.8,465,34.8L465,125Z" class="ct-area"/>
+                                        <path d="M30,105.2C41.154,104.467,52.308,103.978,63.462,103C74.615,102.022,85.769,100.556,96.923,98.6C108.077,96.644,119.231,89.8,130.385,89.8C141.538,89.8,152.692,89.8,163.846,89.8C175,89.8,186.154,89.8,197.308,89.8C208.462,89.8,219.615,89.8,230.769,89.8C241.923,89.8,253.077,88.883,264.231,87.6C275.385,86.317,286.538,76.938,297.692,72.2C308.846,67.462,320,62.52,331.154,59C342.308,55.48,353.462,53.459,364.615,50.2C375.769,46.941,386.923,41.295,398.077,39.2C409.231,37.105,420.385,34.8,431.538,34.8C442.692,34.8,453.846,34.8,465,34.8" class="ct-line"/>
                                         <line x1="30" y1="105.2" x2="30.01" y2="105.2" class="ct-point" ct:value="1899"/>
-                                        <line x1="63.46153846153846" y1="105.2" x2="63.47153846153846" y2="105.2" class="ct-point" ct:value="1899"/>
-                                        <line x1="96.92307692307692" y1="103" x2="96.93307692307692" y2="103" class="ct-point" ct:value="1900"/>
-                                        <line x1="130.3846153846154" y1="98.6" x2="130.39461538461538" y2="98.6" class="ct-point" ct:value="1902"/>
+                                        <line x1="63.46153846153846" y1="103" x2="63.47153846153846" y2="103" class="ct-point" ct:value="1900"/>
+                                        <line x1="96.92307692307692" y1="98.6" x2="96.93307692307692" y2="98.6" class="ct-point" ct:value="1902"/>
+                                        <line x1="130.3846153846154" y1="89.8" x2="130.39461538461538" y2="89.8" class="ct-point" ct:value="1906"/>
                                         <line x1="163.84615384615384" y1="89.8" x2="163.85615384615383" y2="89.8" class="ct-point" ct:value="1906"/>
                                         <line x1="197.3076923076923" y1="89.8" x2="197.31769230769228" y2="89.8" class="ct-point" ct:value="1906"/>
                                         <line x1="230.76923076923077" y1="89.8" x2="230.77923076923076" y2="89.8" class="ct-point" ct:value="1906"/>
-                                        <line x1="264.2307692307692" y1="89.8" x2="264.2407692307692" y2="89.8" class="ct-point" ct:value="1906"/>
-                                        <line x1="297.6923076923077" y1="87.6" x2="297.70230769230767" y2="87.6" class="ct-point" ct:value="1907"/>
-                                        <line x1="331.15384615384613" y1="72.2" x2="331.1638461538461" y2="72.2" class="ct-point" ct:value="1914"/>
-                                        <line x1="364.6153846153846" y1="59" x2="364.6253846153846" y2="59" class="ct-point" ct:value="1920"/>
-                                        <line x1="398.07692307692304" y1="50.2" x2="398.08692307692303" y2="50.2" class="ct-point" ct:value="1924"/>
-                                        <line x1="431.53846153846155" y1="39.2" x2="431.54846153846154" y2="39.2" class="ct-point" ct:value="1929"/>
+                                        <line x1="264.2307692307692" y1="87.6" x2="264.2407692307692" y2="87.6" class="ct-point" ct:value="1907"/>
+                                        <line x1="297.6923076923077" y1="72.2" x2="297.70230769230767" y2="72.2" class="ct-point" ct:value="1914"/>
+                                        <line x1="331.15384615384613" y1="59" x2="331.1638461538461" y2="59" class="ct-point" ct:value="1920"/>
+                                        <line x1="364.6153846153846" y1="50.2" x2="364.6253846153846" y2="50.2" class="ct-point" ct:value="1924"/>
+                                        <line x1="398.07692307692304" y1="39.2" x2="398.08692307692303" y2="39.2" class="ct-point" ct:value="1929"/>
+                                        <line x1="431.53846153846155" y1="34.8" x2="431.54846153846154" y2="34.8" class="ct-point" ct:value="1931"/>
                                         <line x1="465" y1="34.8" x2="465.01" y2="34.8" class="ct-point" ct:value="1931"/>
-                                    <text x="30" y="100.2" class="ct-post">1.90k</text><text x="63.46153846153846" y="100.2" class="ct-post">1.90k</text><text x="96.92307692307692" y="98" class="ct-post">1.90k</text><text x="130.3846153846154" y="93.6" class="ct-post">1.90k</text><text x="163.84615384615384" y="84.8" class="ct-post">1.91k</text><text x="197.3076923076923" y="84.8" class="ct-post">1.91k</text><text x="230.76923076923077" y="84.8" class="ct-post">1.91k</text><text x="264.2307692307692" y="84.8" class="ct-post">1.91k</text><text x="297.6923076923077" y="82.6" class="ct-post">1.91k</text><text x="331.15384615384613" y="67.2" class="ct-post">1.91k</text><text x="364.6153846153846" y="54" class="ct-post">1.92k</text><text x="398.07692307692304" y="45.2" class="ct-post">1.92k</text><text x="431.53846153846155" y="34.2" class="ct-post">1.93k</text><text x="465" y="29.799999999999997" class="ct-post">1.93k</text></g>
+                                    <text x="30" y="100.2" class="ct-post">1.90k</text><text x="63.46153846153846" y="98" class="ct-post">1.90k</text><text x="96.92307692307692" y="93.6" class="ct-post">1.90k</text><text x="130.3846153846154" y="84.8" class="ct-post">1.91k</text><text x="163.84615384615384" y="84.8" class="ct-post">1.91k</text><text x="197.3076923076923" y="84.8" class="ct-post">1.91k</text><text x="230.76923076923077" y="84.8" class="ct-post">1.91k</text><text x="264.2307692307692" y="82.6" class="ct-post">1.91k</text><text x="297.6923076923077" y="67.2" class="ct-post">1.91k</text><text x="331.15384615384613" y="54" class="ct-post">1.92k</text><text x="364.6153846153846" y="45.2" class="ct-post">1.92k</text><text x="398.07692307692304" y="34.2" class="ct-post">1.93k</text><text x="431.53846153846155" y="29.799999999999997" class="ct-post">1.93k</text><text x="465" y="29.799999999999997" class="ct-post">1.93k</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">15 Aug.</text>
-                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">16</text>
-                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">17</text>
-                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
-                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">19</text>
-                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">20</text>
-                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">21</text>
-                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">22</text>
-                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">23</text>
-                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">24</text>
-                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">25</text>
-                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">26</text>
-                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">27</text>
-                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">16 Aug.</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">17</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">18</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">19</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">20</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">22</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">23</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">24</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">29</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -246,39 +246,39 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,109.286C41.154,114.524,52.308,125,63.462,125C74.615,125,85.769,114.524,96.923,109.286C108.077,104.048,119.231,100.556,130.385,93.571C141.538,86.587,152.692,62.143,163.846,62.143C175,62.143,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,118.265,297.692,109.286C308.846,100.306,320,15,331.154,15C342.308,15,353.462,23.73,364.615,30.714C375.769,37.698,386.923,62.143,398.077,62.143C409.231,62.143,420.385,46.429,431.538,46.429C442.692,46.429,453.846,77.857,465,93.571L465,125Z" class="ct-area"/>
-                                        <path d="M30,109.286C41.154,114.524,52.308,125,63.462,125C74.615,125,85.769,114.524,96.923,109.286C108.077,104.048,119.231,100.556,130.385,93.571C141.538,86.587,152.692,62.143,163.846,62.143C175,62.143,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,125,264.231,125C275.385,125,286.538,118.265,297.692,109.286C308.846,100.306,320,15,331.154,15C342.308,15,353.462,23.73,364.615,30.714C375.769,37.698,386.923,62.143,398.077,62.143C409.231,62.143,420.385,46.429,431.538,46.429C442.692,46.429,453.846,77.857,465,93.571" class="ct-line"/>
-                                        <line x1="30" y1="109.28571428571429" x2="30.01" y2="109.28571428571429" class="ct-point" ct:value="1"/>
-                                        <line x1="63.46153846153846" y1="125" x2="63.47153846153846" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="96.92307692307692" y1="109.28571428571429" x2="96.93307692307692" y2="109.28571428571429" class="ct-point" ct:value="1"/>
-                                        <line x1="130.3846153846154" y1="93.57142857142857" x2="130.39461538461538" y2="93.57142857142857" class="ct-point" ct:value="2"/>
-                                        <line x1="163.84615384615384" y1="62.142857142857146" x2="163.85615384615383" y2="62.142857142857146" class="ct-point" ct:value="4"/>
+                                        <path d="M30,125L30,125C41.154,119.762,52.308,114.524,63.462,109.286C74.615,104.048,85.769,100.556,96.923,93.571C108.077,86.587,119.231,62.143,130.385,62.143C141.538,62.143,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,118.265,264.231,109.286C275.385,100.306,286.538,15,297.692,15C308.846,15,320,23.73,331.154,30.714C342.308,37.698,353.462,62.143,364.615,62.143C375.769,62.143,386.923,46.429,398.077,46.429C409.231,46.429,420.385,81,431.538,93.571C442.692,106.143,453.846,114.524,465,125L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C41.154,119.762,52.308,114.524,63.462,109.286C74.615,104.048,85.769,100.556,96.923,93.571C108.077,86.587,119.231,62.143,130.385,62.143C141.538,62.143,152.692,125,163.846,125C175,125,186.154,125,197.308,125C208.462,125,219.615,125,230.769,125C241.923,125,253.077,118.265,264.231,109.286C275.385,100.306,286.538,15,297.692,15C308.846,15,320,23.73,331.154,30.714C342.308,37.698,353.462,62.143,364.615,62.143C375.769,62.143,386.923,46.429,398.077,46.429C409.231,46.429,420.385,81,431.538,93.571C442.692,106.143,453.846,114.524,465,125" class="ct-line"/>
+                                        <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
+                                        <line x1="63.46153846153846" y1="109.28571428571429" x2="63.47153846153846" y2="109.28571428571429" class="ct-point" ct:value="1"/>
+                                        <line x1="96.92307692307692" y1="93.57142857142857" x2="96.93307692307692" y2="93.57142857142857" class="ct-point" ct:value="2"/>
+                                        <line x1="130.3846153846154" y1="62.142857142857146" x2="130.39461538461538" y2="62.142857142857146" class="ct-point" ct:value="4"/>
+                                        <line x1="163.84615384615384" y1="125" x2="163.85615384615383" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="197.3076923076923" y1="125" x2="197.31769230769228" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="230.76923076923077" y1="125" x2="230.77923076923076" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="264.2307692307692" y1="125" x2="264.2407692307692" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="297.6923076923077" y1="109.28571428571429" x2="297.70230769230767" y2="109.28571428571429" class="ct-point" ct:value="1"/>
-                                        <line x1="331.15384615384613" y1="15" x2="331.1638461538461" y2="15" class="ct-point" ct:value="7"/>
-                                        <line x1="364.6153846153846" y1="30.714285714285708" x2="364.6253846153846" y2="30.714285714285708" class="ct-point" ct:value="6"/>
-                                        <line x1="398.07692307692304" y1="62.142857142857146" x2="398.08692307692303" y2="62.142857142857146" class="ct-point" ct:value="4"/>
-                                        <line x1="431.53846153846155" y1="46.42857142857143" x2="431.54846153846154" y2="46.42857142857143" class="ct-point" ct:value="5"/>
-                                        <line x1="465" y1="93.57142857142857" x2="465.01" y2="93.57142857142857" class="ct-point" ct:value="2"/>
-                                    <text x="30" y="104.28571428571429" class="ct-post">+1</text><text x="63.46153846153846" y="120" class="ct-post">0</text><text x="96.92307692307692" y="104.28571428571429" class="ct-post">+1</text><text x="130.3846153846154" y="88.57142857142857" class="ct-post">+2</text><text x="163.84615384615384" y="57.142857142857146" class="ct-post">+4</text><text x="197.3076923076923" y="120" class="ct-post">0</text><text x="230.76923076923077" y="120" class="ct-post">0</text><text x="264.2307692307692" y="120" class="ct-post">0</text><text x="297.6923076923077" y="104.28571428571429" class="ct-post">+1</text><text x="331.15384615384613" y="10" class="ct-post">+7</text><text x="364.6153846153846" y="25.714285714285708" class="ct-post">+6</text><text x="398.07692307692304" y="57.142857142857146" class="ct-post">+4</text><text x="431.53846153846155" y="41.42857142857143" class="ct-post">+5</text><text x="465" y="88.57142857142857" class="ct-post">+2</text></g>
+                                        <line x1="264.2307692307692" y1="109.28571428571429" x2="264.2407692307692" y2="109.28571428571429" class="ct-point" ct:value="1"/>
+                                        <line x1="297.6923076923077" y1="15" x2="297.70230769230767" y2="15" class="ct-point" ct:value="7"/>
+                                        <line x1="331.15384615384613" y1="30.714285714285708" x2="331.1638461538461" y2="30.714285714285708" class="ct-point" ct:value="6"/>
+                                        <line x1="364.6153846153846" y1="62.142857142857146" x2="364.6253846153846" y2="62.142857142857146" class="ct-point" ct:value="4"/>
+                                        <line x1="398.07692307692304" y1="46.42857142857143" x2="398.08692307692303" y2="46.42857142857143" class="ct-point" ct:value="5"/>
+                                        <line x1="431.53846153846155" y1="93.57142857142857" x2="431.54846153846154" y2="93.57142857142857" class="ct-point" ct:value="2"/>
+                                        <line x1="465" y1="125" x2="465.01" y2="125" class="ct-point" ct:value="0"/>
+                                    <text x="30" y="120" class="ct-post">0</text><text x="63.46153846153846" y="104.28571428571429" class="ct-post">+1</text><text x="96.92307692307692" y="88.57142857142857" class="ct-post">+2</text><text x="130.3846153846154" y="57.142857142857146" class="ct-post">+4</text><text x="163.84615384615384" y="120" class="ct-post">0</text><text x="197.3076923076923" y="120" class="ct-post">0</text><text x="230.76923076923077" y="120" class="ct-post">0</text><text x="264.2307692307692" y="104.28571428571429" class="ct-post">+1</text><text x="297.6923076923077" y="10" class="ct-post">+7</text><text x="331.15384615384613" y="25.714285714285708" class="ct-post">+6</text><text x="364.6153846153846" y="57.142857142857146" class="ct-post">+4</text><text x="398.07692307692304" y="41.42857142857143" class="ct-post">+5</text><text x="431.53846153846155" y="88.57142857142857" class="ct-post">+2</text><text x="465" y="120" class="ct-post">0</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">15 Aug.</text>
-                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">16</text>
-                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">17</text>
-                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">18</text>
-                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">19</text>
-                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">20</text>
-                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">21</text>
-                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">22</text>
-                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">23</text>
-                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">24</text>
-                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">25</text>
-                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">26</text>
-                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">27</text>
-                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">16 Aug.</text>
+                                    <text x="63.46153846153846" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">17</text>
+                                    <text x="96.92307692307692" y="145" width="33.46153846153847" height="20" class="ct-label ct-horizontal ct-end">18</text>
+                                    <text x="130.3846153846154" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">19</text>
+                                    <text x="163.84615384615384" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">20</text>
+                                    <text x="197.3076923076923" y="145" width="33.46153846153848" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="230.76923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">22</text>
+                                    <text x="264.2307692307692" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">23</text>
+                                    <text x="297.6923076923077" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">24</text>
+                                    <text x="331.15384615384613" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="364.6153846153846" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="398.07692307692304" y="145" width="33.46153846153851" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                    <text x="431.53846153846155" y="145" width="33.46153846153845" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="465" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">29</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -369,7 +369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2022, 01:11:17 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Aug 2022, 03:08:11 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
