@@ -146,7 +146,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2398 Stargazers
+                                    2399 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,8 +192,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,110.333C41.154,107.889,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,103,130.385,103C141.538,103,152.692,98.926,163.846,95.667C175,92.407,186.154,84.259,197.308,81C208.462,77.741,219.615,76.926,230.769,73.667C241.923,70.407,253.077,62.259,264.231,59C275.385,55.741,286.538,51.667,297.692,51.667C308.846,51.667,320,51.667,331.154,51.667C342.308,51.667,353.462,51.667,364.615,51.667C375.769,51.667,386.923,40.259,398.077,37C409.231,33.741,420.385,29.667,431.538,29.667C442.692,29.667,453.846,29.667,465,29.667L465,125Z" class="ct-area"/>
-                                        <path d="M30,110.333C41.154,107.889,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,103,130.385,103C141.538,103,152.692,98.926,163.846,95.667C175,92.407,186.154,84.259,197.308,81C208.462,77.741,219.615,76.926,230.769,73.667C241.923,70.407,253.077,62.259,264.231,59C275.385,55.741,286.538,51.667,297.692,51.667C308.846,51.667,320,51.667,331.154,51.667C342.308,51.667,353.462,51.667,364.615,51.667C375.769,51.667,386.923,40.259,398.077,37C409.231,33.741,420.385,29.667,431.538,29.667C442.692,29.667,453.846,29.667,465,29.667" class="ct-line"/>
+                                        <path d="M30,125L30,110.333C41.154,107.889,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,103,130.385,103C141.538,103,152.692,98.926,163.846,95.667C175,92.407,186.154,84.259,197.308,81C208.462,77.741,219.615,76.926,230.769,73.667C241.923,70.407,253.077,62.259,264.231,59C275.385,55.741,286.538,51.667,297.692,51.667C308.846,51.667,320,51.667,331.154,51.667C342.308,51.667,353.462,51.667,364.615,51.667C375.769,51.667,386.923,40.259,398.077,37C409.231,33.741,420.385,32.111,431.538,29.667C442.692,27.222,453.846,24.778,465,22.333L465,125Z" class="ct-area"/>
+                                        <path d="M30,110.333C41.154,107.889,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,103,130.385,103C141.538,103,152.692,98.926,163.846,95.667C175,92.407,186.154,84.259,197.308,81C208.462,77.741,219.615,76.926,230.769,73.667C241.923,70.407,253.077,62.259,264.231,59C275.385,55.741,286.538,51.667,297.692,51.667C308.846,51.667,320,51.667,331.154,51.667C342.308,51.667,353.462,51.667,364.615,51.667C375.769,51.667,386.923,40.259,398.077,37C409.231,33.741,420.385,32.111,431.538,29.667C442.692,27.222,453.846,24.778,465,22.333" class="ct-line"/>
                                         <line x1="30" y1="110.33333333333333" x2="30.01" y2="110.33333333333333" class="ct-point" ct:value="2387"/>
                                         <line x1="63.46153846153846" y1="103" x2="63.47153846153846" y2="103" class="ct-point" ct:value="2388"/>
                                         <line x1="96.92307692307692" y1="103" x2="96.93307692307692" y2="103" class="ct-point" ct:value="2388"/>
@@ -207,8 +207,8 @@
                                         <line x1="364.6153846153846" y1="51.66666666666667" x2="364.6253846153846" y2="51.66666666666667" class="ct-point" ct:value="2395"/>
                                         <line x1="398.07692307692304" y1="37" x2="398.08692307692303" y2="37" class="ct-point" ct:value="2397"/>
                                         <line x1="431.53846153846155" y1="29.66666666666667" x2="431.54846153846154" y2="29.66666666666667" class="ct-point" ct:value="2398"/>
-                                        <line x1="465" y1="29.66666666666667" x2="465.01" y2="29.66666666666667" class="ct-point" ct:value="2398"/>
-                                    <text x="30" y="105.33333333333333" class="ct-post">2.39k</text><text x="63.46153846153846" y="98" class="ct-post">2.39k</text><text x="96.92307692307692" y="98" class="ct-post">2.39k</text><text x="130.3846153846154" y="98" class="ct-post">2.39k</text><text x="163.84615384615384" y="90.66666666666667" class="ct-post">2.39k</text><text x="197.3076923076923" y="76" class="ct-post">2.39k</text><text x="230.76923076923077" y="68.66666666666666" class="ct-post">2.39k</text><text x="264.2307692307692" y="54" class="ct-post">2.39k</text><text x="297.6923076923077" y="46.66666666666667" class="ct-post">2.40k</text><text x="331.15384615384613" y="46.66666666666667" class="ct-post">2.40k</text><text x="364.6153846153846" y="46.66666666666667" class="ct-post">2.40k</text><text x="398.07692307692304" y="32" class="ct-post">2.40k</text><text x="431.53846153846155" y="24.66666666666667" class="ct-post">2.40k</text><text x="465" y="24.66666666666667" class="ct-post">2.40k</text></g>
+                                        <line x1="465" y1="22.33333333333333" x2="465.01" y2="22.33333333333333" class="ct-point" ct:value="2399"/>
+                                    <text x="30" y="105.33333333333333" class="ct-post">2.39k</text><text x="63.46153846153846" y="98" class="ct-post">2.39k</text><text x="96.92307692307692" y="98" class="ct-post">2.39k</text><text x="130.3846153846154" y="98" class="ct-post">2.39k</text><text x="163.84615384615384" y="90.66666666666667" class="ct-post">2.39k</text><text x="197.3076923076923" y="76" class="ct-post">2.39k</text><text x="230.76923076923077" y="68.66666666666666" class="ct-post">2.39k</text><text x="264.2307692307692" y="54" class="ct-post">2.39k</text><text x="297.6923076923077" y="46.66666666666667" class="ct-post">2.40k</text><text x="331.15384615384613" y="46.66666666666667" class="ct-post">2.40k</text><text x="364.6153846153846" y="46.66666666666667" class="ct-post">2.40k</text><text x="398.07692307692304" y="32" class="ct-post">2.40k</text><text x="431.53846153846155" y="24.66666666666667" class="ct-post">2.40k</text><text x="465" y="17.33333333333333" class="ct-post">2.40k</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">07 Sep.</text>
@@ -244,8 +244,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,15C41.154,39.444,52.308,72.037,63.462,88.333C74.615,104.63,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,100.556,163.846,88.333C175,76.111,186.154,51.667,197.308,51.667C208.462,51.667,219.615,88.333,230.769,88.333C241.923,88.333,253.077,51.667,264.231,51.667C275.385,51.667,286.538,76.111,297.692,88.333C308.846,100.556,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,51.667,398.077,51.667C409.231,51.667,420.385,76.111,431.538,88.333C442.692,100.556,453.846,112.778,465,125L465,125Z" class="ct-area"/>
-                                        <path d="M30,15C41.154,39.444,52.308,72.037,63.462,88.333C74.615,104.63,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,100.556,163.846,88.333C175,76.111,186.154,51.667,197.308,51.667C208.462,51.667,219.615,88.333,230.769,88.333C241.923,88.333,253.077,51.667,264.231,51.667C275.385,51.667,286.538,76.111,297.692,88.333C308.846,100.556,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,51.667,398.077,51.667C409.231,51.667,420.385,76.111,431.538,88.333C442.692,100.556,453.846,112.778,465,125" class="ct-line"/>
+                                        <path d="M30,125L30,15C41.154,39.444,52.308,72.037,63.462,88.333C74.615,104.63,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,100.556,163.846,88.333C175,76.111,186.154,51.667,197.308,51.667C208.462,51.667,219.615,88.333,230.769,88.333C241.923,88.333,253.077,51.667,264.231,51.667C275.385,51.667,286.538,76.111,297.692,88.333C308.846,100.556,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,51.667,398.077,51.667C409.231,51.667,420.385,88.333,431.538,88.333C442.692,88.333,453.846,88.333,465,88.333L465,125Z" class="ct-area"/>
+                                        <path d="M30,15C41.154,39.444,52.308,72.037,63.462,88.333C74.615,104.63,85.769,125,96.923,125C108.077,125,119.231,125,130.385,125C141.538,125,152.692,100.556,163.846,88.333C175,76.111,186.154,51.667,197.308,51.667C208.462,51.667,219.615,88.333,230.769,88.333C241.923,88.333,253.077,51.667,264.231,51.667C275.385,51.667,286.538,76.111,297.692,88.333C308.846,100.556,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,51.667,398.077,51.667C409.231,51.667,420.385,88.333,431.538,88.333C442.692,88.333,453.846,88.333,465,88.333" class="ct-line"/>
                                         <line x1="30" y1="15" x2="30.01" y2="15" class="ct-point" ct:value="3"/>
                                         <line x1="63.46153846153846" y1="88.33333333333334" x2="63.47153846153846" y2="88.33333333333334" class="ct-point" ct:value="1"/>
                                         <line x1="96.92307692307692" y1="125" x2="96.93307692307692" y2="125" class="ct-point" ct:value="0"/>
@@ -259,8 +259,8 @@
                                         <line x1="364.6153846153846" y1="125" x2="364.6253846153846" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="398.07692307692304" y1="51.66666666666667" x2="398.08692307692303" y2="51.66666666666667" class="ct-point" ct:value="2"/>
                                         <line x1="431.53846153846155" y1="88.33333333333334" x2="431.54846153846154" y2="88.33333333333334" class="ct-point" ct:value="1"/>
-                                        <line x1="465" y1="125" x2="465.01" y2="125" class="ct-point" ct:value="0"/>
-                                    <text x="30" y="10" class="ct-post">+3</text><text x="63.46153846153846" y="83.33333333333334" class="ct-post">+1</text><text x="96.92307692307692" y="120" class="ct-post">0</text><text x="130.3846153846154" y="120" class="ct-post">0</text><text x="163.84615384615384" y="83.33333333333334" class="ct-post">+1</text><text x="197.3076923076923" y="46.66666666666667" class="ct-post">+2</text><text x="230.76923076923077" y="83.33333333333334" class="ct-post">+1</text><text x="264.2307692307692" y="46.66666666666667" class="ct-post">+2</text><text x="297.6923076923077" y="83.33333333333334" class="ct-post">+1</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="120" class="ct-post">0</text><text x="398.07692307692304" y="46.66666666666667" class="ct-post">+2</text><text x="431.53846153846155" y="83.33333333333334" class="ct-post">+1</text><text x="465" y="120" class="ct-post">0</text></g>
+                                        <line x1="465" y1="88.33333333333334" x2="465.01" y2="88.33333333333334" class="ct-point" ct:value="1"/>
+                                    <text x="30" y="10" class="ct-post">+3</text><text x="63.46153846153846" y="83.33333333333334" class="ct-post">+1</text><text x="96.92307692307692" y="120" class="ct-post">0</text><text x="130.3846153846154" y="120" class="ct-post">0</text><text x="163.84615384615384" y="83.33333333333334" class="ct-post">+1</text><text x="197.3076923076923" y="46.66666666666667" class="ct-post">+2</text><text x="230.76923076923077" y="83.33333333333334" class="ct-post">+1</text><text x="264.2307692307692" y="46.66666666666667" class="ct-post">+2</text><text x="297.6923076923077" y="83.33333333333334" class="ct-post">+1</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="120" class="ct-post">0</text><text x="398.07692307692304" y="46.66666666666667" class="ct-post">+2</text><text x="431.53846153846155" y="83.33333333333334" class="ct-post">+1</text><text x="465" y="83.33333333333334" class="ct-post">+1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">07 Sep.</text>
@@ -299,7 +299,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.88181818181818 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.811252268602544 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                     <span class="title nowrap">65</span>
@@ -307,15 +307,15 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="242.26363636363635 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="242.42105263157893 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
-                                    <span class="title nowrap">405</span>
+                                    <span class="title nowrap">406</span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.3927272727272726 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.3883847549909256 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                     <span class="title nowrap">4</span>
@@ -323,7 +323,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.383636363636364 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.373865698729582 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                     <span class="title nowrap">9</span>
@@ -331,7 +331,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.7945454545454547 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.791288566243194 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                     <span class="title nowrap">3</span>
@@ -339,7 +339,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.785454545454545 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.776769509981851 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                     <span class="title nowrap">8</span>
@@ -347,7 +347,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.16 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.136116152450091 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                     <span class="title nowrap">22</span>
@@ -355,7 +355,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.33818181818182 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.30127041742287 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">34</span>
@@ -367,7 +367,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 05:03:11 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 20 Sept 2023, 06:03:11 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
