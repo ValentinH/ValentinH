@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2713 Commits
+                            2714 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            3513 issue comments
+                            3515 issue comments
                         </div>
                     </section>
                 </div>
@@ -146,7 +146,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2543 Stargazers
+                                    2544 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,8 +192,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,99.333C41.154,98.111,52.308,96.889,63.462,95.667C74.615,94.444,85.769,93.63,96.923,92C108.077,90.37,119.231,86.296,130.385,84.667C141.538,83.037,152.692,82.222,163.846,81C175,79.778,186.154,79.167,197.308,77.333C208.462,75.5,219.615,66.333,230.769,66.333C241.923,66.333,253.077,66.333,264.231,66.333C275.385,66.333,286.538,66.333,297.692,66.333C308.846,66.333,320,66.333,331.154,66.333C342.308,66.333,353.462,66.333,364.615,66.333C375.769,66.333,386.923,51.492,398.077,48C409.231,44.508,420.385,40.667,431.538,40.667C442.692,40.667,453.846,40.667,465,40.667L465,125Z" class="ct-area"/>
-                                        <path d="M30,99.333C41.154,98.111,52.308,96.889,63.462,95.667C74.615,94.444,85.769,93.63,96.923,92C108.077,90.37,119.231,86.296,130.385,84.667C141.538,83.037,152.692,82.222,163.846,81C175,79.778,186.154,79.167,197.308,77.333C208.462,75.5,219.615,66.333,230.769,66.333C241.923,66.333,253.077,66.333,264.231,66.333C275.385,66.333,286.538,66.333,297.692,66.333C308.846,66.333,320,66.333,331.154,66.333C342.308,66.333,353.462,66.333,364.615,66.333C375.769,66.333,386.923,51.492,398.077,48C409.231,44.508,420.385,40.667,431.538,40.667C442.692,40.667,453.846,40.667,465,40.667" class="ct-line"/>
+                                        <path d="M30,125L30,99.333C41.154,98.111,52.308,96.889,63.462,95.667C74.615,94.444,85.769,93.63,96.923,92C108.077,90.37,119.231,86.296,130.385,84.667C141.538,83.037,152.692,82.222,163.846,81C175,79.778,186.154,79.167,197.308,77.333C208.462,75.5,219.615,66.333,230.769,66.333C241.923,66.333,253.077,66.333,264.231,66.333C275.385,66.333,286.538,66.333,297.692,66.333C308.846,66.333,320,66.333,331.154,66.333C342.308,66.333,353.462,66.333,364.615,66.333C375.769,66.333,386.923,51.492,398.077,48C409.231,44.508,420.385,42.296,431.538,40.667C442.692,39.037,453.846,38.222,465,37L465,125Z" class="ct-area"/>
+                                        <path d="M30,99.333C41.154,98.111,52.308,96.889,63.462,95.667C74.615,94.444,85.769,93.63,96.923,92C108.077,90.37,119.231,86.296,130.385,84.667C141.538,83.037,152.692,82.222,163.846,81C175,79.778,186.154,79.167,197.308,77.333C208.462,75.5,219.615,66.333,230.769,66.333C241.923,66.333,253.077,66.333,264.231,66.333C275.385,66.333,286.538,66.333,297.692,66.333C308.846,66.333,320,66.333,331.154,66.333C342.308,66.333,353.462,66.333,364.615,66.333C375.769,66.333,386.923,51.492,398.077,48C409.231,44.508,420.385,42.296,431.538,40.667C442.692,39.037,453.846,38.222,465,37" class="ct-line"/>
                                         <line x1="30" y1="99.33333333333333" x2="30.01" y2="99.33333333333333" class="ct-point" ct:value="2527"/>
                                         <line x1="63.46153846153846" y1="95.66666666666667" x2="63.47153846153846" y2="95.66666666666667" class="ct-point" ct:value="2528"/>
                                         <line x1="96.92307692307692" y1="92" x2="96.93307692307692" y2="92" class="ct-point" ct:value="2529"/>
@@ -207,8 +207,8 @@
                                         <line x1="364.6153846153846" y1="66.33333333333334" x2="364.6253846153846" y2="66.33333333333334" class="ct-point" ct:value="2536"/>
                                         <line x1="398.07692307692304" y1="48" x2="398.08692307692303" y2="48" class="ct-point" ct:value="2541"/>
                                         <line x1="431.53846153846155" y1="40.66666666666667" x2="431.54846153846154" y2="40.66666666666667" class="ct-point" ct:value="2543"/>
-                                        <line x1="465" y1="40.66666666666667" x2="465.01" y2="40.66666666666667" class="ct-point" ct:value="2543"/>
-                                    <text x="30" y="94.33333333333333" class="ct-post">2.53k</text><text x="63.46153846153846" y="90.66666666666667" class="ct-post">2.53k</text><text x="96.92307692307692" y="87" class="ct-post">2.53k</text><text x="130.3846153846154" y="79.66666666666666" class="ct-post">2.53k</text><text x="163.84615384615384" y="76" class="ct-post">2.53k</text><text x="197.3076923076923" y="72.33333333333334" class="ct-post">2.53k</text><text x="230.76923076923077" y="61.33333333333334" class="ct-post">2.54k</text><text x="264.2307692307692" y="61.33333333333334" class="ct-post">2.54k</text><text x="297.6923076923077" y="61.33333333333334" class="ct-post">2.54k</text><text x="331.15384615384613" y="61.33333333333334" class="ct-post">2.54k</text><text x="364.6153846153846" y="61.33333333333334" class="ct-post">2.54k</text><text x="398.07692307692304" y="43" class="ct-post">2.54k</text><text x="431.53846153846155" y="35.66666666666667" class="ct-post">2.54k</text><text x="465" y="35.66666666666667" class="ct-post">2.54k</text></g>
+                                        <line x1="465" y1="37" x2="465.01" y2="37" class="ct-point" ct:value="2544"/>
+                                    <text x="30" y="94.33333333333333" class="ct-post">2.53k</text><text x="63.46153846153846" y="90.66666666666667" class="ct-post">2.53k</text><text x="96.92307692307692" y="87" class="ct-post">2.53k</text><text x="130.3846153846154" y="79.66666666666666" class="ct-post">2.53k</text><text x="163.84615384615384" y="76" class="ct-post">2.53k</text><text x="197.3076923076923" y="72.33333333333334" class="ct-post">2.53k</text><text x="230.76923076923077" y="61.33333333333334" class="ct-post">2.54k</text><text x="264.2307692307692" y="61.33333333333334" class="ct-post">2.54k</text><text x="297.6923076923077" y="61.33333333333334" class="ct-post">2.54k</text><text x="331.15384615384613" y="61.33333333333334" class="ct-post">2.54k</text><text x="364.6153846153846" y="61.33333333333334" class="ct-post">2.54k</text><text x="398.07692307692304" y="43" class="ct-post">2.54k</text><text x="431.53846153846155" y="35.66666666666667" class="ct-post">2.54k</text><text x="465" y="32" class="ct-post">2.54k</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">12 Jan.</text>
@@ -246,8 +246,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,59C41.154,73.667,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,81,130.385,81C141.538,81,152.692,103,163.846,103C175,103,186.154,103,197.308,103C208.462,103,219.615,59,230.769,59C241.923,59,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,63.4,431.538,81C442.692,98.6,453.846,110.333,465,125L465,125Z" class="ct-area"/>
-                                        <path d="M30,59C41.154,73.667,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,81,130.385,81C141.538,81,152.692,103,163.846,103C175,103,186.154,103,197.308,103C208.462,103,219.615,59,230.769,59C241.923,59,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,63.4,431.538,81C442.692,98.6,453.846,110.333,465,125" class="ct-line"/>
+                                        <path d="M30,125L30,59C41.154,73.667,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,81,130.385,81C141.538,81,152.692,103,163.846,103C175,103,186.154,103,197.308,103C208.462,103,219.615,59,230.769,59C241.923,59,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,70,431.538,81C442.692,92,453.846,95.667,465,103L465,125Z" class="ct-area"/>
+                                        <path d="M30,59C41.154,73.667,52.308,103,63.462,103C74.615,103,85.769,103,96.923,103C108.077,103,119.231,81,130.385,81C141.538,81,152.692,103,163.846,103C175,103,186.154,103,197.308,103C208.462,103,219.615,59,230.769,59C241.923,59,253.077,125,264.231,125C275.385,125,286.538,125,297.692,125C308.846,125,320,125,331.154,125C342.308,125,353.462,125,364.615,125C375.769,125,386.923,15,398.077,15C409.231,15,420.385,70,431.538,81C442.692,92,453.846,95.667,465,103" class="ct-line"/>
                                         <line x1="30" y1="59" x2="30.01" y2="59" class="ct-point" ct:value="3"/>
                                         <line x1="63.46153846153846" y1="103" x2="63.47153846153846" y2="103" class="ct-point" ct:value="1"/>
                                         <line x1="96.92307692307692" y1="103" x2="96.93307692307692" y2="103" class="ct-point" ct:value="1"/>
@@ -261,8 +261,8 @@
                                         <line x1="364.6153846153846" y1="125" x2="364.6253846153846" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="398.07692307692304" y1="15" x2="398.08692307692303" y2="15" class="ct-point" ct:value="5"/>
                                         <line x1="431.53846153846155" y1="81" x2="431.54846153846154" y2="81" class="ct-point" ct:value="2"/>
-                                        <line x1="465" y1="125" x2="465.01" y2="125" class="ct-point" ct:value="0"/>
-                                    <text x="30" y="54" class="ct-post">+3</text><text x="63.46153846153846" y="98" class="ct-post">+1</text><text x="96.92307692307692" y="98" class="ct-post">+1</text><text x="130.3846153846154" y="76" class="ct-post">+2</text><text x="163.84615384615384" y="98" class="ct-post">+1</text><text x="197.3076923076923" y="98" class="ct-post">+1</text><text x="230.76923076923077" y="54" class="ct-post">+3</text><text x="264.2307692307692" y="120" class="ct-post">0</text><text x="297.6923076923077" y="120" class="ct-post">0</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="120" class="ct-post">0</text><text x="398.07692307692304" y="10" class="ct-post">+5</text><text x="431.53846153846155" y="76" class="ct-post">+2</text><text x="465" y="120" class="ct-post">0</text></g>
+                                        <line x1="465" y1="103" x2="465.01" y2="103" class="ct-point" ct:value="1"/>
+                                    <text x="30" y="54" class="ct-post">+3</text><text x="63.46153846153846" y="98" class="ct-post">+1</text><text x="96.92307692307692" y="98" class="ct-post">+1</text><text x="130.3846153846154" y="76" class="ct-post">+2</text><text x="163.84615384615384" y="98" class="ct-post">+1</text><text x="197.3076923076923" y="98" class="ct-post">+1</text><text x="230.76923076923077" y="54" class="ct-post">+3</text><text x="264.2307692307692" y="120" class="ct-post">0</text><text x="297.6923076923077" y="120" class="ct-post">0</text><text x="331.15384615384613" y="120" class="ct-post">0</text><text x="364.6153846153846" y="120" class="ct-post">0</text><text x="398.07692307692304" y="10" class="ct-post">+5</text><text x="431.53846153846155" y="76" class="ct-post">+2</text><text x="465" y="98" class="ct-post">+1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="33.46153846153846" height="20" class="ct-label ct-horizontal ct-end">12 Jan.</text>
@@ -301,15 +301,15 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.17634854771784 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.78260869565217 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
-                                    <span class="title nowrap">53</span>
+                                    <span class="title nowrap">54</span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="242.99585062240666 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="242.4927536231884 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                     <span class="title nowrap">356</span>
@@ -317,7 +317,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7302904564315353 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.7246376811594204 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                     <span class="title nowrap">4</span>
@@ -325,7 +325,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.778008298755187 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.768115942028985 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                     <span class="title nowrap">7</span>
@@ -333,7 +333,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.3651452282157677 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.3623188405797102 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                     <span class="title nowrap">2</span>
@@ -341,7 +341,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.460580912863071 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.449275362318841 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                     <span class="title nowrap">8</span>
@@ -349,7 +349,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.651452282157676 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.623188405797102 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                     <span class="title nowrap">20</span>
@@ -357,7 +357,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.842323651452283 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.797101449275363 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">32</span>
@@ -369,7 +369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2024, 08:02:55 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 Jan 2024, 09:03:12 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
